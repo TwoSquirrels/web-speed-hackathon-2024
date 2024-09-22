@@ -26,6 +26,7 @@
     "react-router-dom": "6.18.0",
     "regenerator-runtime": "0.14.1",
     "swr": "2.2.4",
+    "tsup": "8.0.1",
     "unorm": "1.6.0"
   },
   "devDependencies": {
@@ -37,7 +38,6 @@
     "@types/react-dom": "18.2.1",
     "@types/serviceworker": "0.0.83",
     "esbuild-plugin-polyfill-node": "0.3.0",
-    "pkg-dir": "5.0.0",
-    "tsup": "8.0.1"
+    "pkg-dir": "5.0.0"
   }
 }

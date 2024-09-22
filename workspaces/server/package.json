@@ -38,6 +38,7 @@
     "sharp": "0.33.2",
     "styled-components": "6.1.1",
     "swr": "2.2.4",
+    "tsup": "8.0.1",
     "zod": "3.22.4"
   },
   "devDependencies": {
@@ -50,7 +51,6 @@
     "@types/styled-components": "5.1.34",
     "@types/uuid": "9.0.7",
     "drizzle-kit": "0.20.9",
-    "pkg-dir": "5.0.0",
-    "tsup": "8.0.1"
+    "pkg-dir": "5.0.0"
   }
 }
