@@ -2,6 +2,8 @@ FROM node:20.11.1-alpine
 
 WORKDIR /usr/src/app
 
+ENV NODE_ENV production
+
 RUN apk --no-cache add tzdata && \
     cp /usr/share/zoneinfo/Asia/Tokyo /etc/localtime && \
     apk del tzdata
